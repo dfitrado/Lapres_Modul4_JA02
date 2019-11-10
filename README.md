@@ -19,7 +19,7 @@ Laporan Praktikum Soal Shift Jarkom oleh grup A02
 <img src="pictures/pembagian vlsm.png" width="600">
 
 5. Setelah dikelompokkan, kita dapat menghitung berapa subnet yang ada per kelompok itu, lalu berapa netmask yang ada di kelompok itu. Kita dapat menghitung dengan menggambar sebuah diagram terlebih dahulu, seperti:
-<img src="pictures/perhitungan vlsm.png" width="600">
+<img src="pictures/perhitungan vlsm.jpg" width="600">
 
 6. Atur IP untuk masing-masing interface yang ada di setiap device sesuai dengan pembagian subnet pada VLSM. Interface dapat diatur pada menu Config -> Interface > “nama interface” (contoh: FastEthernet0/0). Kemudian, isi alamat IP dan subnet mask dari subnet interface tersebut. Berikut contoh untuk mengatur IP pada subnet A1. <br />
 Atur IP pada interface CHARIZARD yang mengarah ke client PIPLUP dengan 192.168.30.1.
